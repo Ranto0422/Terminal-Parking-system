@@ -1,0 +1,311 @@
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 1
+Maximum parking time: 0.0020802505555555556
+Minimum parking time: 0.0020802505555555556
+Average parking time: 0.00000 minutes
+Total Sales: 40.0
+
+
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 1
+Maximum parking time: 0.0020283916666666664
+Minimum parking time: 0.0020283916666666664
+Average parking time: 0.00000 minutes
+Total Sales: 40.0
+
+
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 1
+Maximum parking time: 0.0020283916666666664
+Minimum parking time: 0.0020283916666666664
+Average parking time: 0.00000 minutes
+Total Sales: 40.0
+
+
+Date and time M/D H/M: 11-11 23:42
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 1
+Maximum parking time: 0.0015779605555555555
+Minimum parking time: 0.0015779605555555555
+Date and time M/D H/M: 11-11 23:46
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 1
+Maximum parking time: 0.001635258611111111
+Minimum parking time: 0.001635258611111111
+Date and time M/D H/M: 11-11 23:47
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 1
+Maximum parking time: 0.0016321777777777778
+Minimum parking time: 0.0016321777777777778
+Total Sales: 40.00
+Average parking time: 0.00000 minutes
+
+
+Date and time M/D H/M: 11-11 23:52
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 5
+Maximum parking time: 0.04160298083333334
+Minimum parking time: 0.0016321777777777778
+Total Sales: 532.00
+Average parking time: 0.00000 minutes
+
+
+
+
+Date and time M/D H/M: 11-12 00:02
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 1
+Maximum parking time: 0.001979196388888889
+Minimum parking time: 0.001979196388888889
+Total Sales: 40.00Php
+Average parking time: 0.00000 minutes
+
+
+
+
+Date and time M/D H/M: 11-12 11:46
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 2
+Maximum parking time: 0.13230360916666667
+Minimum parking time: 0.0022762872222222225
+Total Sales: 80.00Php
+Average parking time: 0.00000 minutes
+
+
+
+
+Date and time M/D H/M: 11-13 21:35
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 1
+Maximum parking time: 0.0016827208333333333
+Minimum parking time: 0.0016827208333333333
+Total Sales: 40.00Php
+Average parking time: 0.00000 minutes
+
+
+
+
+Date and time M/D H/M: 11-13 22:37
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 0
+Maximum parking time: 0
+Minimum parking time: inf
+Total Sales: 0.00Php
+Average parking time: 0.00000 minutes
+
+
+
+
+Date and time M/D H/M: 11-13 22:37
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 0
+Maximum parking time: 0
+Minimum parking time: inf
+Total Sales: 0.00Php
+Average parking time: 0.00000 minutes
+
+
+
+
+Date and time M/D H/M: 11-13 22:37
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 0
+Maximum parking time: 0
+Minimum parking time: inf
+Total Sales: 0.00Php
+Average parking time: 0.00000 minutes
+
+
+
+
+Date and time M/D H/M: 11-13 22:57
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 0
+Maximum parking time: 0
+Minimum parking time: inf
+Total Sales: 0.00Php
+Average parking time: 0.00000 minutes
+
+
+
+
+Date and time M/D H/M: 11-14 21:33
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 3
+Maximum parking time: 0.009781490833333333
+Minimum parking time: 0.006928737777777778
+Total Sales: 120.00Php
+Average parking time: 0.00000 minutes
+
+
+
+
+Date and time M/D H/M: 11-14 22:17
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 0
+Maximum parking time: 0
+Minimum parking time: inf
+Total Sales: 0.00Php
+Average parking time: 0.00000 minutes
+
+
+
+
+Date and time M/D H/M: 11-19 18:16
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 1
+Maximum parking time: 0.002238152222222222
+Minimum parking time: 0.002238152222222222
+Total Sales: 40.00Php
+Average parking time: 0.00000 minutes
+
+
+
+
+Date and time M/D H/M: 11-19 19:08
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 1
+Maximum parking time: 0.0020553530555555556
+Minimum parking time: 0.0020553530555555556
+Total Sales: 40.00Php
+Average parking time: 0.00000 minutes
+
+
+
+
+Date and time M/D H/M: 11-19 19:09
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 1
+Maximum parking time: 0.0020553530555555556
+Minimum parking time: 0.0020553530555555556
+Total Sales: 40.00Php
+Average parking time: 0.00000 minutes
+
+
+
+
+Date and time M/D H/M: 11-19 19:11
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 1
+Maximum parking time: 0.0035708958333333335
+Minimum parking time: 0.0035708958333333335
+Total Sales: 40.00Php
+Average parking time: 0.00000 minutes
+
+
+
+
+Date and time M/D H/M: 11-19 19:11
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 1
+Maximum parking time: 0.0035708958333333335
+Minimum parking time: 0.0035708958333333335
+Total Sales: 40.00Php
+Average parking time: 0.00000 minutes
+
+

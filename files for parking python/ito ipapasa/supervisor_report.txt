@@ -1,0 +1,16 @@
+
+
+Date and time M/D H/M: 11-20 22:39
+Available Parking on Each Floor:
+1st floor: 16
+2nd floor: 16
+3rd floor: 16
+4th floor: 16
+5th floor: 16
+No. of Tickets released: 0
+Maximum parking time: 0
+Minimum parking time: inf
+Total Sales: 0.00Php
+Average parking time: 0.00000 minutes
+
+

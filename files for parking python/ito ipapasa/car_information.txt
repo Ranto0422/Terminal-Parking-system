@@ -1,0 +1,8 @@
+
+Ticket Number: F4-S7
+Plate Number: WER1222
+Check-In Time: 2023-11-20 22:35:57.453845
+Check-Out Time: None
+Payment: None
+
+
