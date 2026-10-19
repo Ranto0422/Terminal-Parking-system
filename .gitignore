@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Files the program writes at runtime
+car_information.txt
+supervisor_report.txt
+All report logs.txt
+logs.txt

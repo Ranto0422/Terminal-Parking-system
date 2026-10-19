@@ -1,7 +1,0 @@
-Student Number: 22211111
-Student Name: Yotio, Ryan
-Student Gender: F
-Student Phone Number: 0999222
-Student Address: Sta/Roa
-
-
